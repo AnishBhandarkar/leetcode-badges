@@ -2,15 +2,21 @@
 Repository for tracking and showcasing my LeetCode badges and accomplishments.
 
 
-<table>
-  <tr>
-    <td align="center"><img src="./badges/Leetcode-50-days-2026.png" width="120"><br>July 2026</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+# 🏆 LeetCode Badges
+
+Repository for tracking and showcasing my LeetCode badges and accomplishments.
+
+<div align="center">
+
+### 🥇 Badge #1
+
+<img src="./badges/Leetcode-50-days-2026.png" width="170">
+
+**50 Days Badge**
+
+*Earned: July 2026*
+
+</div>
+
+---
+
